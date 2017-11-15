@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{27C5CD5C-3021-49EE-9CB4-449FE2C56044}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test-SQL/Main.storyboard">
+    <Files>
+      <File FileName="Test-SQL/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test-SQL PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC0087C8-BA22-4EDF-A511-230E1072885B" />
+  <MultiItemStartupConfigurations />
+</Properties>
